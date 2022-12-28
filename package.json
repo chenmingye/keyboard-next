@@ -1,6 +1,6 @@
 {
 	"name": "cmy-keyboard-next",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"scripts": {
 		"serve": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service serve",
 		"build": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service build",
@@ -17,6 +17,10 @@
 		"postcss-px-to-viewport": "^1.1.1",
 		"svg-sprite-loader": "^5.2.1",
 		"vue": "^3.2.45"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:chenmingye/keyboard-next.git"
 	},
 	"devDependencies": {
 		"@types/jest": "^24.0.19",
