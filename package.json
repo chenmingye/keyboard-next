@@ -1,6 +1,6 @@
 {
 	"name": "cmy-keyboard-next",
-	"version": "1.0.7",
+	"version": "1.0.8",
 	"scripts": {
 		"serve": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service serve",
 		"build": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service build",
