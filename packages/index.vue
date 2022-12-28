@@ -22,7 +22,7 @@
 </template>
 
 <script lang="ts">
-import "@/libs/flexible.js";
+// import "@/libs/flexible.js";
 import "@/assets/css/keyBoard.less";
 import type { PropType } from "vue";
 import handleDrag from "@/directive/drag";
