@@ -20,16 +20,6 @@
 </p>
 <br>
 
-<h4 align="center">
-  <a href="https://www.cmappax.com/keyboard/vue@next">Fully Featured demo</a>
-</h4>
-
-> ### Other versions
-
-- For Vue 2.x, Please to using [keyboard-virtual-vue](https://github.com/cangshudada/vue-keyBoard).
-
-- For React, Please to using [virtual-keyboard-react](https://github.com/cangshudada/react-keyBoard).
-
 **They have the same function as the Vue3 version**
 
 ## Overview
