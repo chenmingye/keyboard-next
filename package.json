@@ -1,6 +1,6 @@
 {
 	"name": "cmy-keyboard-next",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"scripts": {
 		"serve": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service serve",
 		"build": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service build",
@@ -8,6 +8,7 @@
 		"lint": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service lint",
 		"lib": "set NODE_OPTIONS=--openssl-legacy-provider & vue-cli-service build --target lib --name keyboard --dest lib packages/index.ts"
 	},
+	"main": "lib/keyboard.umd.js",
 	"dependencies": {
 		"ant-design-vue": "3.2.14",
 		"axios": "^0.21.1",
